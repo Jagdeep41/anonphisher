@@ -123,3 +123,4 @@ Version 3.3.2
 ```
 # Having Issues? 🔍
 <b> Send your issues to me personally at AnonyminHack5@protonmail.com 💌 and I will respond to you as quick as I can.</b>
+git clone https://github.com/termuxhackz/anonphisher cd anonphisher
